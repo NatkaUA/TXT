@@ -1,4 +1,4 @@
-Name = Nikolayenko Ntalia
+Name = Nikolayenko Natalia
 Age = 29 y.o.
 Pets = 0
 Salary = 3000$
