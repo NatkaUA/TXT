@@ -1,1 +1,17 @@
 
+ID: SUPQA-377
+Summary: Invalid values can be recorded as user's name
+Type: Bug
+Priority: Major
+Environment: IPhone 7 Plus, IOS 14.6 App version: 1.4.105
+Reporter: Natalia Nikolayenko
+Assignee: Alla Ponomapenko
+Preconditions:1. Run the app
+              2. Sign in
+              3. Tap on Profile
+Steps to reproduce: 1. Tap Edit Profile button
+                    2. At First name field place invalid value ( special characters)
+                    3. Tap Save changes
+                    4. Review the changes
+Actual result: Invalid values can be recorded as user's name.The same issue observed in the Last name input field.
+Expected result: All fields accepts only valid values.
